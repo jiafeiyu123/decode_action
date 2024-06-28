@@ -3,7 +3,6 @@
 扫码注册：https://raw.githubusercontent.com/leafTheFish/DeathNote/main/ccp.png
 
 积分换实物和视频会员
-一天跑三四次吧，有时做任务会出错以免做不完
 
 青龙变量  ccpAccount
 注册后先设置密码，两种填变量的方法，多账号都是换行或@或&隔开:
