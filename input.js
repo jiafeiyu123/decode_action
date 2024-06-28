@@ -3,7 +3,7 @@
 扫码注册：https://raw.githubusercontent.com/leafTheFish/DeathNote/main/ccp.pn
 
 青龙变量  ccpAccount
-注册后先设置密码，两种填变量的方法，多账号都是换行或@或&隔开:
+注册后先设置密码，两种填变量的方法，多账号都是换行或@或&隔开
 1. 把账号密码按 账号#密码 的格式填到ccpAccount里
 2. (需要crypto-js依赖)先退出登录，再用密码登录一次，捉https://marketing-api.gwm.com.cn/api-u/v1/pickup/user/auth/loginForPwd的包，把body里面的password字段的值和账号按 账号|password值 的格式填到ccpAccount里
 
