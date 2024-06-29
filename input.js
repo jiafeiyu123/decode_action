@@ -1,3 +1,4 @@
+
 /*
 长城炮
 扫码注册：https://raw.githubusercontent.com/leafTheFish/DeathNote/main/ccp.pn
