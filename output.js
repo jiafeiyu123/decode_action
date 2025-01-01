@@ -1,4 +1,4 @@
-//Wed Jan 01 2025 14:06:51 GMT+0000 (Coordinated Universal Time)
+//Wed Jan 01 2025 14:07:11 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const $ = new Env("旧衣小二"),
