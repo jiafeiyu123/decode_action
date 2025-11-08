@@ -1,7 +1,7 @@
 const axios = require('axios');
 const os = require('os');
 
-/*===== 环境变量配置说明 =====
+/*===== 环境变量配置说明 ===== 
  1. 环境变量 xdj_tk（账号信息）：格式为「Authorization#user-agent」，多账号换行分隔
     - 注意：Authorization与UA需从抓包域名 lm.api.sujh.net 的请求中获取，确保匹配对应账号
  2. 环境变量 xdj_dl（网页代理API链接）：数据格式json，使用协议为http/https，配置后脚本自动获取代理
