@@ -1,3 +1,4 @@
+
 // ==================== 配置项 ====================
 const CUSTOM_DAILY_SIGN_MAX = null;   // 自定义当日最大签到次数（null = 用接口id2的次数 | 填数字 = 自定义）
 const CUSTOM_VIDEO_MAX = null;        // 自定义看视频最大次数（null = 用接口id3的次数 | 填数字 = 自定义）
